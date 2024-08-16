@@ -1,7 +1,4 @@
 
-
-
-
 <a href=#><img src="hello.gif"></a>
 <a href=#><img src="contributions.svg"></a>
 # 👑 Manuel-Bonilla™ 🤖
